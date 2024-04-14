@@ -31,7 +31,7 @@
 ## Контакты
 
 - **Email**: [yulua.kim.1999@gmail.com](mailto:yulua.kim.1999@gmail.com)
-- **GitHub**: [GitHub профиль](URL-ссылка на ваш GitHub профиль)
+- **GitHub**: [GitHub профиль](https://github.com/Yulia-Kim-Student/Yulia-Kim-Student.github.io/tree/master1)
 
 ---
 
