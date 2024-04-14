@@ -26,7 +26,7 @@
 Проект, в котором я использовала библиотеки numpy, pandas, и matplotlib для анализа и визуализации данных. 
 
 - **Технологии**: Python, numpy, pandas, matplotlib
-- **Код проекта**: [Ссылка на проект]([https://github.com/Yulia-Kim-Student/Yulia-Kim-Student.github.io.git](https://github.com/Yulia-Kim-Student/Yulia-Kim-Student.github.io/tree/master1))
+- **Код проекта**: [Ссылка на проект](https://github.com/Yulia-Kim-Student/Yulia-Kim-Student.github.io/tree/master1)
 
 ## Контакты
 
